@@ -2,14 +2,9 @@
 
 public_tags:
   - STARTER
-  - ELITE
-  - ELITE-GOLD
-  - AMULET
-  - HYBRID
-  - WARPSPEED
+  - STANDARD
+  - OPTIMAL
   - HQ-FC
+  - VG-FC
   - TRAINEE
-  - LOGI
-  - RETIRED-LOGI
-  - BASTION
-  - WEB
+

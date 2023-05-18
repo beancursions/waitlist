@@ -18,8 +18,6 @@ categories:
 
 rules:
   # Logi
-  - item: Oneiros
-    category: logi
   - item: Guardian
     category: logi
   - item: Nestor
@@ -38,3 +36,12 @@ rules:
     category: sniper
   - item: Kronos
     category: cqc
+  - item: Eos
+    category: alt
+  - item: Damnation
+    category: alt
+  - item: Ishtar
+    category: alt
+  - item: Dominix
+    category: alt
+
